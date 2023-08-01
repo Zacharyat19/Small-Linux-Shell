@@ -1,5 +1,3 @@
-Small Shell
-
 ## Features
 
 1. "Native" execution of `exit`, `cd`, and `status` commands
